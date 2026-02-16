@@ -1,0 +1,343 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+  .bmw a:hover {
+    color: orange;
+}
+.vvd:hover {
+    box-shadow: 0px 0px 25px -10px #888888;
+}
+
+.hari:hover {
+    background-color: deepskyblue;
+    color: white;
+}
+
+
+
+a.ha.py-3.text-decoration-none er:hover {
+    color: white;
+}
+h2.er.text-info:hover {
+    color: white;
+}
+a.cv.nav-link.fw-bolder {
+    padding: 0px;
+    margin: 6px;
+}
+
+.ha:hover {
+    color: white;
+    background-color: lightskyblue;
+}
+
+.ha {
+    color: black;
+}
+
+h2.er:hover {
+    color: white;
+}
+
+h2.er {
+    color: deepskyblue;
+}
+
+.bvm:hover {
+    color: deepskyblue;
+}
+.bvm {
+    color: black;
+}
+
+.yy:hover {
+    color: deepskyblue;
+}
+
+.ghu {
+    background-color: dimgray;
+    width: 47%;
+    padding: 8px;
+    border: 0;
+}
+button.rvr.btn.btn-outline-info.py-2 {
+    width: 90%;
+}
+button.rvr.btn.btn-info.text-white.py-2 {
+    width: 90%;
+}
+
+
+.bpo, .opb:hover {
+    overflow: hidden;
+}
+.img-fluid.rounded:hover {
+    transform: scale(1.1);
+}
+.carousel-caption {
+    bottom: 200px;
+}
+
+.newsletter-form input[type="submit"] {
+    width: 10%;
+    background-color: deepskyblue;
+    border: 0;
+    padding: 8px 30px;
+    color: white;
+    position: absolute;
+    border-radius: 21px;
+    right: 310px;
+}
+
+.cv {
+    color: white;
+}
+.cv:hover {
+    color: deepskyblue;
+}
+
+.Social-links a {
+    color: white;
+}
+
+.Social-links a:hover {
+    color: deepskyblue;
+}
+
+input.ghu.rounded-pill:hover {
+    outline: none;
+}
+
+.fg {
+    color: white;
+}
+.fg:hover {
+    color: deepskyblue;
+}
+.header {
+    background: rgba(0, 0, 0, 0.5);
+}
+a#scroll-top {
+    position: fixed;
+    padding: 4px 11px;
+    right: 15px;
+    bottom: 15px;
+    background-color: deepskyblue;
+    color: white;
+}
+.ha:hover {
+    background-color: deepskyblue;
+    color: white;
+}
+.ui {
+    color: deepskyblue;
+}
+.ui:hover {
+   color: white;
+}
+.scrolled .header {
+    box-shadow: 0px 0 18px rgb(0 ,0, 0,0.5);
+}
+.scrolled .header {
+    --background-color: #000000;
+}
+.rvr:hover {
+    color: white;
+}
+section, .section {
+    padding: 60px 0;
+    scroll-margin-top: 90px;
+    overflow: clip;
+}
+
+.bpo {
+    margin: 0px 15px;
+}
+button#pills-All-tab {
+    color: black;
+    font-size: large;
+    font-weight: 700;
+}
+button#pills-All-tab:hover {
+    color: deepskyblue;
+}
+button#pills-App-tab:hover {
+    color: deepskyblue;
+}
+button#pills-App-tab {
+    color: black;
+    font-size: large;
+    font-weight: 700;
+}
+button#pills-Product-tab:hover {
+    color: deepskyblue;
+}
+button#pills-Product-tab {
+    color: black;
+    font-size: large;
+    font-weight: 700;
+}
+button#pills-Branding-tab:hover {
+    color: deepskyblue;
+}
+button#pills-Branding-tab {
+    color: black;
+    font-size: large;
+    font-weight: 700;
+}
+button#pills-Books-tab:hover {
+    color: deepskyblue;
+}
+button#pills-Books-tab {
+    color: black;
+    font-size: large;
+    font-weight: 700;
+}
+
+.row.col-12.ms-1 {
+    width: 99%;
+    margin: 0;
+}
+.col-6.form-floating.ps-1 {
+    padding: 0px;
+}
+
+@media screen and (min-width: 381px) and (max-width: 600px) {
+    .bpo {
+    width: 100%;
+    float: left;
+    margin: 0px;
+}
+   .opb {
+    width: 100%;
+    float: left;
+   }
+}
+
+@media screen and (min-width: 601px) and (max-width: 992px) {
+    .bpo {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    }
+     .opb {
+    width: 100%;
+    float: left;
+   }
+
+   .newsletter-form input[type="submit"] {
+    width: 16%;
+    background-color: deepskyblue;
+    border: 0;
+    padding: 8px 30px;
+    color: white;
+    position: absolute;
+    border-radius: 21px;
+    right: 200px;
+    }
+
+    .ghu {
+    background-color: dimgray;
+    width: 50%;
+    padding: 8px;
+    border: 0;
+    }
+
+}
+
+
+@media screen and (min-width: 900px) and (max-width: 1100px) {
+
+ .ghu {
+    background-color: dimgray;
+    width: 57%;
+    padding: 8px;
+    border: 0;
+}  
+.newsletter-form input[type="submit"] {
+    width: 12%;
+    background-color: deepskyblue;
+    border: 0;
+    padding: 8px 30px;
+    color: white;
+    position: absolute;
+    border-radius: 21px;
+    right: 200px;
+    }
+
+}
+
+@media screen and (min-width: 701px) and (max-width: 900px) {
+
+    .newsletter-form input[type="submit"] {
+    width: 15%;
+    background-color: deepskyblue;
+    border: 0;
+    padding: 8px 30px;
+    color: white;
+    position: absolute;
+    border-radius: 21px;
+    right: 161px;
+    }
+}
+@media screen and (min-width: 500px) and (max-width: 700px) {
+    .newsletter-form input[type="submit"] {
+    width: 20%;
+    background-color: deepskyblue;
+    border: 0;
+    padding: 8px 30px;
+    color: white;
+    position: absolute;
+    border-radius: 21px;
+    right: 80px;
+    }
+   
+   .ghu {
+    background-color: dimgray;
+    width: 58%;
+    padding: 8px;
+    border: 0;
+}  
+
+}
+
+
+
+
+
+
+// X-Small devices portrait phones, less than 576px
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices landscape phones, 576px and up
+@media screen and (min-width: 576px) { 
+   
+
+ }
+
+// Medium devices tablets, 768px and up
+@media screen and (min-width: 768px) { 
+     .bpo {
+        margin: 0;
+     }
+
+}
+
+// Large devices desktops, 992px and up
+@media screen (min-width: 992px) {  }
+
+// X-Large devices large desktops, 1200px and up
+@media (min-width: 1200px) { 
+
+ }
+
+
+@media screen and (min-width: 901px) and (max-width: 1200px) {
+    
+
+}
+
+
